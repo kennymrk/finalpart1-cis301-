@@ -1,0 +1,49 @@
+table {
+    width: 600px;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+
+body{
+    background-color: #1c87c9;
+    float:left;
+}
+
+.h1{
+    color: white;
+    text-align: center;
+}
+
+
+  
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.image-cell {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.image-cell img {
+    width: 200px;
+    height: 150px;
+    border: 3px solid blue;
+    padding: 10px;
+}
+
+.label{
+    font-weight: bold;
+}
+
+
+
+p{
+    text-align: center;
+    color: white;
+}
